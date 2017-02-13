@@ -1,10 +1,3 @@
-<?php
-  $sum = 4 + 5;
-  $product = 4 * 2;
-  $difference = 12 - 5;
-  $quotient = 12 / 2;
- ?>
-
 <!DOCTYPE html>
 <html>
 <head>
